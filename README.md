@@ -1,7 +1,7 @@
 # An analysis of Kickstarter Campaigns --
 performing analysis on kickstarter data to uncover trends --
 --
-![launch date outcome](/launch date outcome.png)
+![launch date outcome](kickstarter-analysis/launch date outcome.png)
 
 --
 --
