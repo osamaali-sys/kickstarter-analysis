@@ -1,11 +1,11 @@
 # An analysis of Kickstarter Campaigns
 performing analysis on kickstarter data to uncover trends 
 
-![launch_date_outcome](osamaali-sys/kickstarter-analysis/launch date outcome.png)
+![launch_date_outcome](/launch%20date%20outcome.png)
 
 Aim to launch a campaign in theatre with the play subcategory with goal of $4000 in US for best result in achieving pledges 
 
-![category outcome](osamaali-sys/kickstarter-analysis/category outcome.png)
+![category outcome](/category%20outcome.png)
 
 best time to start the campaign would be around May 
 
