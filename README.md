@@ -11,6 +11,6 @@ Best time to start the campaign would be around May
 
 ### challange
 Outcomes based on goals, under $1000 is the best option
-![]()
+![outcome based on goals](kickstarter-analysis/outcome%20based%20on%20goals.png)
 Outcome based on launch date, May is the best month to launch
-![]()
+![outcome based on goals](kickstarter-analysis/outcome%20based%20on%20launch%20date.png)
